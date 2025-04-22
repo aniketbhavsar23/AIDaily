@@ -1,0 +1,2 @@
+# AIDaily
+Python Project
